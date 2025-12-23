@@ -1,0 +1,3 @@
+CSVPLOtterNOrmalizer.py - Plots .csv files and using global maximum among groups there is an option  to normalize, and even the buffer subtracting function is there. 
+asc_spectrum_plotter.py - Plots .ascii files taken from Raman instrument and included the normalize option using the global maximum among uploaded groups.
+spectrumpreprocessingNew.py - It enables to visualize .csv spectrum file alone , buffer substraction , SG filter gaussian and median filter and adjustable trackbars to choose the most suitable parameters for the each filter.
